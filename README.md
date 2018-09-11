@@ -6,7 +6,7 @@ and made sure the EditText text color is visable with both rootView background c
 
 ### App Walk-though
 
-https://imgur.com/tPSWyLe
+https://i.imgur.com/tPSWyLe.gif
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - 'Hello from Michael!'
