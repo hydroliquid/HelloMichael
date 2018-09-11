@@ -5,8 +5,7 @@ Codepath app submission. Set up the required and the bonus functions for the app
 and made sure the EditText text color is visable with both rootView background colors.
 
 ### App Walk-though
-
-[Imgur](https://i.imgur.com/tPSWyLes.gif)
+https://i.imgur.com/tPSWyLe.gif
 
 ### Hours worked - 1.5 hours
 
