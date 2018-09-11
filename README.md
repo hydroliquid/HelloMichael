@@ -6,7 +6,7 @@ and made sure the EditText text color is visable with both rootView background c
 
 ### App Walk-though
 
-https://imgur.com/tPSWyLe
+[url=https://imgur.com/tPSWyLe][img]http://i.imgur.com/tPSWyLe.gif[/img][/url]
 
 ### Hours worked - 1.5 hours
 
