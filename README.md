@@ -5,7 +5,7 @@ Codepath app submission. Set up the required and the bonus functions for the app
 and made sure the EditText text color is visable with both rootView background colors.
 
 ### App Walk-though
-<gif-player src="https://i.imgur.com/tPSWyLe.gif" size="contain" play bounce style="width: 240px; height: 160px;"></gif-player>
+<img src="https://i.imgur.com/tPSWyLe.gif" size="contain" width="200" height="300" />
 
 ### Hours worked - 1.5 hours
 
